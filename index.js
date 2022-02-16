@@ -1,4 +1,7 @@
 require("dotenv").config();
 const programArguments = require("./getArguments");
+const assertValidity = require("./assertValidity");
 
-console.log(process.env);
+assertValidity(programArguments.first, programArguments.seccond);
+
+console.log("reached");
