@@ -1,4 +1,4 @@
-const debug = require("debug")("assertion");
+const debug = require("debug")("calculator:assertion");
 const chalk = require("chalk");
 const prompt = require("prompt");
 
