@@ -1,2 +1,1 @@
-
-
+const programArguments = require("./getArguments");
