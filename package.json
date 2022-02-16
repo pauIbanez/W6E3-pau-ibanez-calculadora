@@ -10,6 +10,7 @@
     "commander": "^9.0.0",
     "cycle": "^1.0.3",
     "debug": "^4.3.3",
+    "dotenv": "^16.0.0",
     "eyes": "^0.1.8",
     "isstream": "^0.1.2",
     "mute-stream": "^0.0.8",
